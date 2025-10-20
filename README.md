@@ -84,10 +84,6 @@ Below are exported images (pages 12–66) that contain the game interface, Unity
 - ![p054](assets/page_054.png)
 - ![p055](assets/page_055.png)
 - ![p056](assets/page_056.png)
-- ![p057](assets/page_057.png)
-- ![p058](assets/page_058.png)
-- ![p059](assets/page_059.png)
-- ![p060](assets/page_060.png)
 
 > Tip: Keep the `csharp_assets/` folder next to this `README.md` in your repo so these images render on GitHub.
 
